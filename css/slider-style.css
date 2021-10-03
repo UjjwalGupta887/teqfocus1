@@ -188,11 +188,11 @@ ul, li {
 #content #slider .navigation ul li .li__hoverLine {
   height: 1px;
   float: left;
-  margin-top: 8px;
+  margin-top: 10px;
 }
 #content #slider .navigation ul li .li__hoverLine .l {
   width: 0%;
-  height: 1px;
+  height: 1.3px;
   background: #cccccc;
   margin: 0 auto;
   transition-duration: 1s;
